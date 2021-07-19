@@ -1,0 +1,111 @@
+.discount{
+    padding:75px 0 0 0;
+}
+.discount .row{
+    grid-row-gap: 100px;
+}
+.discount h2{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+    margin-bottom:35px;
+}
+.discount__bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.discount__bg-1{
+    background-image: url("../images/third-bg-1.png");
+}
+.discount__bg-2{
+    background-image: url("../images/third-bg-2.png");
+}
+.discount__bg-3{
+    background-image: url("../images/third-bg-3.png");
+}
+.discount__bg-4{
+    background-image: url("../images/third-bg-4.png");
+}
+.discount__bg-5{
+    background-image: url("../images/third-bg-5.png");
+}
+.discount__bg-6{
+    background-image: url("../images/third-bg-6.png");
+}
+.discount .col-6:nth-child(1){
+
+    order:1;
+}
+.discount .col-6:nth-child(2){
+
+    order:2;
+}
+.discount .col-6:nth-child(3){
+
+    order:4;
+}
+.discount .col-6:nth-child(4){
+    text-align: right;
+    order:3;
+}
+.discount .col-6:nth-child(5){
+    order:5;
+}
+.discount .col-6:nth-child(6){
+
+    order:6;
+}
+.discount .col-6:nth-child(7){
+
+    order:8;
+}
+.discount .col-6:nth-child(8){
+    text-align: right;
+    order:7;
+}
+.discount .col-6:nth-child(9){
+    order:9;
+}
+.discount .col-6:nth-child(10){
+    order:10;
+}
+.discount .col-6:nth-child(11){
+    order:12;
+}
+.discount .col-6:nth-child(12){
+    text-align: right;
+    order:11;
+}
+.discount__title{
+    font-size: 36px;
+    line-height: 44px;
+}
+.discount__descr{
+    margin:20px 0 30px;
+    font-size: 24px;
+    line-height: 29px;
+}
+.discount__colors{
+    margin-bottom:92px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+.discount__red{
+    color: #B32727;
+    text-decoration: line-through;
+    margin-right: 40px;
+}
+.discount__green{
+    color: #54B129;
+}
+.discount__button{
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding:18px 50px;
+    background: transparent;
+    border: 1px solid #FFFFFF;
+}

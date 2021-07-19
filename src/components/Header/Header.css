@@ -1,0 +1,28 @@
+body{
+    background: black;
+}
+
+header .row{
+    align-items: center;
+}
+
+header  ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:25px 0;
+}
+
+header .col-3 img{
+    vertical-align: bottom;
+}
+header li a{
+    font-size: 18px;
+    line-height: 22px;
+
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.header__arrow{
+    margin-right: 15px;
+}

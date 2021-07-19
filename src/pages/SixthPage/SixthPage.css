@@ -1,0 +1,6 @@
+.sixthPage{
+    background-image: url("../../components/images/olive-top.png"),url("../../components/images/olive-bottom.png");
+    background-repeat: no-repeat;
+    background-position: 0% 0%,100% 100%;
+
+}

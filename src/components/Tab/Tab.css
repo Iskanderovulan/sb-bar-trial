@@ -1,0 +1,13 @@
+.tab{
+    padding:100px 0 0 0;
+}
+.tab ul {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px 0;
+}
+.tab li h2{
+    font-size: 36px;
+    margin-right: 46px;
+}

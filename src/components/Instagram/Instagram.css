@@ -1,0 +1,29 @@
+
+
+.instagram__bg{
+    background-image: url("../images/inst-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 110px;
+
+}
+.instagram__items{
+    width: 260px;
+    height: 329px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 11;
+}
+.instagram__items-bg-1{
+    background-image: url("../images/inst-1.png");
+}
+.instagram__items-bg-2{
+    background-image: url("../images/inst-2.png");
+}
+.instagram__items-bg-3{
+    background-image: url("../images/inst-3.png");
+}

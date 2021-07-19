@@ -1,0 +1,54 @@
+
+.menu__bg{
+    background-image: url("../images/menu-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 206px;
+}
+.row__menu{
+    margin:0 -25px !important;
+    justify-content: center;
+    grid-row-gap: 110px;
+}
+.col-3-wide{
+    padding: 0 25px !important;
+
+}
+.menu__title{
+    margin:10px 0;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+}
+.menu__text{
+    margin-bottom: 25px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.menu__click{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu__price{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+.menu__number{
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+.menu__number span{
+    margin:0 10px 0 10px;
+}
+.menu__basket{
+    font-size: 14px;
+    color:white;
+    line-height: 17px;
+    text-transform: uppercase;
+    border: 1px solid #FFFFFF;
+    padding:11px 15px 12px;
+    background: transparent;
+}

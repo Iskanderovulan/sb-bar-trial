@@ -1,0 +1,6 @@
+.fourthPage{
+    background-image: url("../../components/images/map-bg-1.png"),url("../../components/images/map-bg-2.png");
+    background-repeat: no-repeat;
+    background-position: 10% 10%,85% 80%;
+
+}

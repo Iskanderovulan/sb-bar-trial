@@ -1,0 +1,16 @@
+.enter__link {
+    padding: 44px 0 100px;
+}
+
+.enter__link a {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.enter__link a:nth-child(2) {
+    color: #AAA8A8;
+    font-weight: normal;
+    margin-left: 110px;
+}

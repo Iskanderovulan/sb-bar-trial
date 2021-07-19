@@ -1,0 +1,36 @@
+.register{
+    text-align: center;
+    min-height: 100vh;
+    padding: 26px 0 150px 0;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+form > input {
+    width: 100%;
+    margin-bottom: 50px;
+    border: 1px solid #FFFFFF;
+    padding: 14px 10px;
+    background: transparent;
+    margin-top: 5px;
+    color: #fff;
+}
+
+form p {
+    text-align: left;
+}
+
+form button {
+    margin-top:50px;
+    border: 1px solid #FFFFFF;
+    background: transparent;
+    padding: 18px 50px;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}

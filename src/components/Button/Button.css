@@ -1,0 +1,14 @@
+.button{
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding: 18px 50px;
+    background-color: transparent;
+    color:#fff;
+    border: 1px solid #FFFFFF;
+
+}
+.button__parent{
+   text-align: center;
+    margin-top:100px;
+}

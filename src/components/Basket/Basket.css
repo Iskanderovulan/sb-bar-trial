@@ -1,0 +1,60 @@
+.basket{
+    padding:74px 0 150px 0;
+}
+.basket h2{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+    margin-bottom:40px;
+}
+.basket .row{
+    grid-row-gap: 80px;
+}
+.basket__bg{
+    background-image: url("../images/basket-menu-bg.png");
+    height: 265px;
+}
+.basket__title{
+    display: flex;
+    justify-content: space-between;
+}
+.basket__title button{
+    background: transparent;
+    border:none;
+}
+.basket__title p{
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+}
+.basket__price{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   margin-top:70px;
+}
+.basket__name{
+    font-size: 24px;
+    line-height: 29px;
+}
+.basket__quantity{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+.basket__total{
+    margin-top:100px;
+}
+.basket__total button{
+    margin-top:50px;
+    border: 1px solid #FFFFFF;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    padding:18px 50px;
+    background: transparent;
+    color:#ffffff;
+}
+.basket__total-child{
+    margin-bottom:20px;
+}

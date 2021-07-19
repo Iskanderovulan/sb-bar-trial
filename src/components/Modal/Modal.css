@@ -1,0 +1,136 @@
+.modal{
+    background-color: #ffffff;
+    padding:30px 0 60px 40px;
+    color:#000000;
+    width: 900px;
+    margin:100px auto;
+    position: relative; /* Stay in place */
+
+
+}
+.modal__wrap{
+    width: 600px;
+
+}
+.modal h2{
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    margin-bottom:20px;
+}
+.modal__name{
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom:5px;
+}
+input{
+    margin-bottom:40px;
+    padding:14px 0 14px 10px;
+    width: 100%;
+}
+input::placeholder{
+    font-size: 18px;
+    line-height: 22px;
+    color: #4F4E4E;
+}
+.modal__checkbox{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom:40px;
+}
+.modal__checkbox input{
+    width: 20px;
+    height: 20px;
+    margin:0;
+    vertical-align: middle;
+}
+
+.modal__checkbox p{
+    margin-right: 20px;
+}
+.modal__address-house{
+    display: flex;
+}
+.modal__child:nth-child(1){
+    margin-right: 60px;
+    width: 60%;
+}
+.modal__flat:nth-child(2){
+    width: 60%;
+}
+textarea{
+    width: 100%;
+    padding-top:14px;
+    padding-left:10px;
+    border: 1px solid #000000;
+    outline:none;
+    resize: none;
+    margin-bottom:40px;
+
+}
+textarea::placeholder{
+    font-size: 18px;
+    line-height: 22px;
+    color: #4F4E4E;
+
+}
+.modal__promo{
+    width: 50%;
+}
+label{
+    margin:0 10px 0 10px;
+    vertical-align: middle;
+}
+.modal__wrap-2{
+    width: 490px;
+}
+.modal__cvv{
+    display: flex;
+   grid-column-gap: 60px;
+}
+
+.modal__cvv-child:nth-child(1){
+    width: 55%;
+}
+.modal__cvv-child:nth-child(2){
+    width: 15%;
+}
+.modal__cvv-child:nth-child(3){
+    width: 30%;
+}
+.modal__cost{
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    margin-bottom:80px;
+}
+.modal__cost span{
+    font-weight: bold;
+    letter-spacing: 0.02em;
+}
+.modal__button{
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    background-color: transparent;
+    padding:18px 50px;
+    color: #000000 !important;
+    border: 1px solid #000000 !important;
+    display: inline-block;
+}
+.modal__button-wrap{
+    text-align: center;
+}
+.basket__delete{
+    font-size: 48px;
+    position: absolute;
+    top:1%;
+    right: 1%;
+    margin:0 !important;
+    padding:0 !important;
+    cursor: pointer;
+}

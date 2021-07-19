@@ -1,0 +1,24 @@
+.map{
+    padding:44px 0 0 0;
+}
+.map__bold{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+}
+.map p{
+    margin-bottom:15px;
+}
+.col{
+    margin-bottom:50px;
+}
+.map h2{
+    margin-bottom:50px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+}
+.map__whatsapp{
+    margin:0 50px;
+}
